@@ -1,2 +1,2 @@
 # frontend
-Page de blocs
+Page de blog
